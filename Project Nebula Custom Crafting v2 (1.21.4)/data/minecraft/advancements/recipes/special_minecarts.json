@@ -1,0 +1,56 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "minecraft:shortcut_minecart_chest",
+      "minecraft:shortcut_minecart_furnace",
+      "minecraft:shortcut_minecart_hopper",
+      "minecraft:shortcut_minecart_tnt"
+    ]
+  },
+  "criteria": {
+    "has_minecart": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:minecart"
+          }
+        ]
+      }
+    },
+    "has_the_shortcut_chest_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:vanilla_chest_minecart"
+      }
+    },
+    "has_the_shortcut_furnace_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:vanilla_furnace_minecart"
+      }
+    },
+    "has_the_shortcut_hopper_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:vanilla_hopper_minecart"
+      }
+    },
+    "has_the_shortcut_tnt_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:vanilla_tnt_minecart"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_minecart",
+      "has_the_shortcut_chest_recipe",
+      "has_the_shortcut_furnace_recipe",
+      "has_the_shortcut_hopper_recipe",
+      "has_the_shortcut_tnt_recipe"
+    ]
+  ]
+}

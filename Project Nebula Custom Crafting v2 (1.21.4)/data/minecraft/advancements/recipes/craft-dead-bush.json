@@ -1,0 +1,46 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "minecraft:craft-dead-bush"
+    ]
+  },
+  "criteria": {
+    "has_4_sticks": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:stick",
+            "count": {
+              "min": 4
+            }
+          }
+        ]
+      }
+    },
+	"has_the_result": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:dead_bush"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:craft-dead-bush"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_4_sticks",
+      "has_the_result",
+      "has_the_recipe"
+    ]
+  ]
+}

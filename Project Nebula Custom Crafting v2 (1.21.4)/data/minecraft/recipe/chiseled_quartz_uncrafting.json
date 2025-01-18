@@ -1,0 +1,15 @@
+{
+    "type": "crafting_shaped",
+    "category": "building",
+    "pattern": [
+        "##",
+        "##"
+    ],
+    "key": {
+        "#": "minecraft:chiseled_quartz_block"
+    },
+    "result": {
+        "id": "minecraft:quartz_block",
+        "count": 4
+    }
+}

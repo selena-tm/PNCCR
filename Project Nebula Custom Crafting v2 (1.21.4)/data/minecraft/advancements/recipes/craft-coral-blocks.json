@@ -1,0 +1,178 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "minecraft:coral-block-blue",
+      "minecraft:coral-block-magenta",
+      "minecraft:coral-block-pink",
+      "minecraft:coral-block-red",
+      "minecraft:coral-block-yellow"
+    ]
+  },
+  "criteria": {
+    "has_4_blue_coral": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:tube_coral",
+            "count": {
+              "min": 4
+            }
+          }
+        ]
+      }
+    },
+	"has_blue_coral_block": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:tube_coral_block"
+          }
+        ]
+      }
+    },
+    "has_blue_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:coral-block-blue"
+      }
+    },
+    "has_4_magenta_coral": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:bubble_coral",
+            "count": {
+              "min": 4
+            }
+          }
+        ]
+      }
+    },
+	"has_magenta_coral_block": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:bubble_coral_block"
+          }
+        ]
+      }
+    },
+    "has_magenta_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:coral-block-magenta"
+      }
+    },
+    "has_4_pink_coral": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:brain_coral",
+            "count": {
+              "min": 4
+            }
+          }
+        ]
+      }
+    },
+	"has_pink_coral_block": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:brain_coral_block"
+          }
+        ]
+      }
+    },
+    "has_pink_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:coral-block-pink"
+      }
+    },
+    "has_4_red_coral": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:fire_coral",
+            "count": {
+              "min": 4
+            }
+          }
+        ]
+      }
+    },
+	"has_red_coral_block": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:fire_coral_block"
+          }
+        ]
+      }
+    },
+    "has_red_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:coral-block-red"
+      }
+    },
+    "has_4_yellow_coral": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:horn_coral",
+            "count": {
+              "min": 4
+            }
+          }
+        ]
+      }
+    },
+	"has_yellow_coral_block": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:horn_coral_block"
+          }
+        ]
+      }
+    },
+    "has_yellow_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:coral-block-yellow"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_4_blue_coral",
+      "has_blue_coral_block",
+      "has_blue_recipe",
+      "has_4_magenta_coral",
+      "has_magenta_coral_block",
+      "has_magenta_recipe",
+      "has_4_pink_coral",
+      "has_pink_coral_block",
+      "has_pink_recipe",
+      "has_4_red_coral",
+      "has_red_coral_block",
+      "has_red_recipe",
+      "has_4_yellow_coral",
+      "has_yellow_coral_block",
+      "has_yellow_recipe"
+    ]
+  ]
+}

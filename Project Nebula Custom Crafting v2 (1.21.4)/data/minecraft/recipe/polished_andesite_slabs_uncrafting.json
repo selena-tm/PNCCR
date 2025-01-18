@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "building",
+    "group": "polished andesite uncrafting",
+    "pattern": [
+        "_",
+        "_"
+    ],
+    "key": {
+        "_": "minecraft:polished_andesite_slab"
+    },
+    "result": {
+        "id": "minecraft:polished_andesite",
+        "count": 1
+    }
+}

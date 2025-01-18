@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "building",
+    "group": "wooden uncrafting",
+    "pattern": [
+        "##",
+        "##"
+    ],
+    "key": {
+        "#": "minecraft:dark_oak_stairs"
+    },
+    "result": {
+        "id": "minecraft:dark_oak_planks",
+        "count": 3
+    }
+}

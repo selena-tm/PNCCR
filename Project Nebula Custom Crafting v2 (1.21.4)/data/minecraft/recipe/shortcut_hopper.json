@@ -1,0 +1,29 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "iOi",
+        "iOi",
+        " i "
+    ],
+    "key": {
+        "i": "minecraft:iron_ingot",
+        "O": [
+              "minecraft:acacia_planks",
+              "minecraft:bamboo_planks",
+              "minecraft:birch_planks",
+              "minecraft:cherry_planks",
+              "minecraft:crimson_planks",
+              "minecraft:dark_oak_planks",
+              "minecraft:jungle_planks",
+              "minecraft:mangrove_planks",
+              "minecraft:oak_planks",
+              "minecraft:pale_oak_planks",
+              "minecraft:spruce_planks",
+              "minecraft:warped_planks"
+        ]
+    },
+    "result": {
+        "id": "minecraft:hopper",
+        "count": 1
+    }
+}

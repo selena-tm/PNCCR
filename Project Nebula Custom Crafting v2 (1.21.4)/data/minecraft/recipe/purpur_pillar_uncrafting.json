@@ -1,0 +1,15 @@
+{
+    "type": "crafting_shaped",
+    "category": "building",
+    "pattern": [
+        "##",
+        "##"
+    ],
+    "key": {
+        "#": "minecraft:purpur_pillar"
+    },
+    "result": {
+        "id": "minecraft:purpur_block",
+        "count": 4
+    }
+}

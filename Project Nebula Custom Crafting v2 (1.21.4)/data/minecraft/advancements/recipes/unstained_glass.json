@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "minecraft:unstained_glass"
+    ]
+  },
+  "criteria": {
+    "has_ice": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "tag": "lig:solidwater"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:unstained_glass"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_ice",
+      "has_the_recipe"
+    ]
+  ]
+}

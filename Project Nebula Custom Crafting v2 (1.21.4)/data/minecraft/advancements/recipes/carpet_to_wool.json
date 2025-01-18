@@ -1,0 +1,317 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "minecraft:carpet_to_wool_black",
+      "minecraft:carpet_to_wool_blue",
+      "minecraft:carpet_to_wool_brown",
+      "minecraft:carpet_to_wool_cyan",
+      "minecraft:carpet_to_wool_gray",
+      "minecraft:carpet_to_wool_green",
+      "minecraft:carpet_to_wool_light_blue",
+      "minecraft:carpet_to_wool_light_gray",
+      "minecraft:carpet_to_wool_lime",
+      "minecraft:carpet_to_wool_magenta",
+      "minecraft:carpet_to_wool_orange",
+      "minecraft:carpet_to_wool_pink",
+      "minecraft:carpet_to_wool_purple",
+      "minecraft:carpet_to_wool_red",
+      "minecraft:carpet_to_wool_white",
+      "minecraft:carpet_to_wool_yellow"
+    ]
+  },
+  "criteria": {
+    "has_black_carpet": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:black_carpet"
+          }
+        ]
+      }
+    },
+    "has_black_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:carpet_to_wool_black"
+      }
+    },
+    "has_blue_carpet": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:blue_carpet"
+          }
+        ]
+      }
+    },
+    "has_blue_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:carpet_to_wool_blue"
+      }
+    },
+    "has_brown_carpet": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:brown_carpet"
+          }
+        ]
+      }
+    },
+    "has_brown_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:carpet_to_wool_brown"
+      }
+    },
+    "has_cyan_carpet": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:cyan_carpet"
+          }
+        ]
+      }
+    },
+    "has_cyan_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:carpet_to_wool_cyan"
+      }
+    },
+    "has_gray_carpet": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:gray_carpet"
+          }
+        ]
+      }
+    },
+    "has_gray_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:carpet_to_wool_gray"
+      }
+    },
+    "has_green_carpet": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:green_carpet"
+          }
+        ]
+      }
+    },
+    "has_green_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:carpet_to_wool_green"
+      }
+    },
+    "has_light_blue_carpet": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:light_blue_carpet"
+          }
+        ]
+      }
+    },
+    "has_light_blue_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:carpet_to_wool_light_blue"
+      }
+    },
+    "has_light_gray_carpet": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:light_gray_carpet"
+          }
+        ]
+      }
+    },
+    "has_light_gray_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:carpet_to_wool_light_gray"
+      }
+    },
+    "has_lime_carpet": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:lime_carpet"
+          }
+        ]
+      }
+    },
+    "has_lime_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:carpet_to_wool_lime"
+      }
+    },
+    "has_magenta_carpet": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:magenta_carpet"
+          }
+        ]
+      }
+    },
+    "has_magenta_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:carpet_to_wool_magenta"
+      }
+    },
+    "has_orange_carpet": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:orange_carpet"
+          }
+        ]
+      }
+    },
+    "has_orange_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:carpet_to_wool_orange"
+      }
+    },
+    "has_pink_carpet": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:pink_carpet"
+          }
+        ]
+      }
+    },
+    "has_pink_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:carpet_to_wool_pink"
+      }
+    },
+    "has_purple_carpet": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:purple_carpet"
+          }
+        ]
+      }
+    },
+    "has_purple_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:carpet_to_wool_purple"
+      }
+    },
+    "has_red_carpet": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:red_carpet"
+          }
+        ]
+      }
+    },
+    "has_red_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:carpet_to_wool_red"
+      }
+    },
+    "has_white_carpet": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:white_carpet"
+          }
+        ]
+      }
+    },
+    "has_white_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:carpet_to_wool_white"
+      }
+    },
+    "has_yellow_carpet": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:yellow_carpet"
+          }
+        ]
+      }
+    },
+    "has_yellow_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:carpet_to_wool_yellow"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_black_carpet",
+      "has_black_recipe",
+      "has_blue_carpet",
+      "has_blue_recipe",
+      "has_brown_carpet",
+      "has_brown_recipe",
+      "has_cyan_carpet",
+      "has_cyan_recipe",
+      "has_gray_carpet",
+      "has_gray_recipe",
+      "has_green_carpet",
+      "has_green_recipe",
+      "has_light_blue_carpet",
+      "has_light_blue_recipe",
+      "has_light_gray_carpet",
+      "has_light_gray_recipe",
+      "has_lime_carpet",
+      "has_lime_recipe",
+      "has_magenta_carpet",
+      "has_magenta_recipe",
+      "has_orange_carpet",
+      "has_orange_recipe",
+      "has_pink_carpet",
+      "has_pink_recipe",
+      "has_purple_carpet",
+      "has_purple_recipe",
+      "has_red_carpet",
+      "has_red_recipe",
+      "has_white_carpet",
+      "has_white_recipe",
+      "has_yellow_carpet",
+      "has_yellow_recipe"
+    ]
+  ]
+}

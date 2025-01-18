@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "building",
+    "group": "glass uncrafting",
+    "pattern": [
+        "###",
+        "# #",
+        "###"
+    ],
+    "key": {
+        "#": "minecraft:cyan_stained_glass_pane"
+    },
+    "result": {
+        "id": "minecraft:cyan_stained_glass",
+        "count": 3
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "building",
+    "group": "polished tuff uncrafting",
+    "pattern": [
+        "_",
+        "_"
+    ],
+    "key": {
+        "_": "minecraft:polished_tuff_slab"
+    },
+    "result": {
+        "id": "minecraft:polished_tuff",
+        "count": 1
+    }
+}

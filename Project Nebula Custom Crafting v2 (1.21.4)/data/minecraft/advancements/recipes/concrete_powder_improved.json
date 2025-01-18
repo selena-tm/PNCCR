@@ -1,0 +1,317 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "minecraft:black_concrete_powder_improved",
+      "minecraft:blue_concrete_powder_improved",
+      "minecraft:brown_concrete_powder_improved",
+      "minecraft:cyan_concrete_powder_improved",
+      "minecraft:gray_concrete_powder_improved",
+      "minecraft:green_concrete_powder_improved",
+      "minecraft:light_blue_concrete_powder_improved",
+      "minecraft:light_gray_concrete_powder_improved",
+      "minecraft:lime_concrete_powder_improved",
+      "minecraft:magenta_concrete_powder_improved",
+      "minecraft:orange_concrete_powder_improved",
+      "minecraft:pink_concrete_powder_improved",
+      "minecraft:purple_concrete_powder_improved",
+      "minecraft:red_concrete_powder_improved",
+      "minecraft:white_concrete_powder_improved",
+      "minecraft:yellow_concrete_powder_improved"
+    ]
+  },
+  "criteria": {
+    "has_black_concrete_powder": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:black_concrete_powder"
+          }
+        ]
+      }
+    },
+    "has_black_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:black_concrete_powder_improved"
+      }
+    },
+    "has_blue_concrete_powder": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:blue_concrete_powder"
+          }
+        ]
+      }
+    },
+    "has_blue_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:blue_concrete_powder_improved"
+      }
+    },
+    "has_brown_concrete_powder": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:brown_concrete_powder"
+          }
+        ]
+      }
+    },
+    "has_brown_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:brown_concrete_powder_improved"
+      }
+    },
+    "has_cyan_concrete_powder": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:cyan_concrete_powder"
+          }
+        ]
+      }
+    },
+    "has_cyan_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:cyan_concrete_powder_improved"
+      }
+    },
+    "has_gray_concrete_powder": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:gray_concrete_powder"
+          }
+        ]
+      }
+    },
+    "has_gray_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:gray_concrete_powder_improved"
+      }
+    },
+    "has_green_concrete_powder": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:green_concrete_powder"
+          }
+        ]
+      }
+    },
+    "has_green_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:green_concrete_powder_improved"
+      }
+    },
+    "has_light_blue_concrete_powder": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:light_blue_concrete_powder"
+          }
+        ]
+      }
+    },
+    "has_light_blue_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:light_blue_concrete_powder_improved"
+      }
+    },
+    "has_light_gray_concrete_powder": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:light_gray_concrete_powder"
+          }
+        ]
+      }
+    },
+    "has_light_gray_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:light_gray_concrete_powder_improved"
+      }
+    },
+    "has_lime_concrete_powder": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:lime_concrete_powder"
+          }
+        ]
+      }
+    },
+    "has_lime_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:lime_concrete_powder_improved"
+      }
+    },
+    "has_magenta_concrete_powder": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:magenta_concrete_powder"
+          }
+        ]
+      }
+    },
+    "has_magenta_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:magenta_concrete_powder_improved"
+      }
+    },
+    "has_orange_concrete_powder": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:orange_concrete_powder"
+          }
+        ]
+      }
+    },
+    "has_orange_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:orange_concrete_powder_improved"
+      }
+    },
+    "has_pink_concrete_powder": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:pink_concrete_powder"
+          }
+        ]
+      }
+    },
+    "has_pink_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:pink_concrete_powder_improved"
+      }
+    },
+    "has_purple_concrete_powder": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:purple_concrete_powder"
+          }
+        ]
+      }
+    },
+    "has_purple_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:purple_concrete_powder_improved"
+      }
+    },
+    "has_red_concrete_powder": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:red_concrete_powder"
+          }
+        ]
+      }
+    },
+    "has_red_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:red_concrete_powder_improved"
+      }
+    },
+    "has_white_concrete_powder": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:white_concrete_powder"
+          }
+        ]
+      }
+    },
+    "has_white_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:white_concrete_powder_improved"
+      }
+    },
+    "has_yellow_concrete_powder": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:yellow_concrete_powder"
+          }
+        ]
+      }
+    },
+    "has_yellow_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:yellow_concrete_powder_improved"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_black_concrete_powder",
+      "has_black_recipe",
+      "has_blue_concrete_powder",
+      "has_blue_recipe",
+      "has_brown_concrete_powder",
+      "has_brown_recipe",
+      "has_cyan_concrete_powder",
+      "has_cyan_recipe",
+      "has_gray_concrete_powder",
+      "has_gray_recipe",
+      "has_green_concrete_powder",
+      "has_green_recipe",
+      "has_light_blue_concrete_powder",
+      "has_light_blue_recipe",
+      "has_light_gray_concrete_powder",
+      "has_light_gray_recipe",
+      "has_lime_concrete_powder",
+      "has_lime_recipe",
+      "has_magenta_concrete_powder",
+      "has_magenta_recipe",
+      "has_orange_concrete_powder",
+      "has_orange_recipe",
+      "has_pink_concrete_powder",
+      "has_pink_recipe",
+      "has_purple_concrete_powder",
+      "has_purple_recipe",
+      "has_red_concrete_powder",
+      "has_red_recipe",
+      "has_white_concrete_powder",
+      "has_white_recipe",
+      "has_yellow_concrete_powder",
+      "has_yellow_recipe"
+    ]
+  ]
+}

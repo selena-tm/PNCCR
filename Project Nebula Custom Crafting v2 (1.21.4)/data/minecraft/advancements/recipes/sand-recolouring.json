@@ -1,0 +1,51 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "minecraft:sand-red-to-yellow",
+      "minecraft:sand-yellow-to-red"
+    ]
+  },
+  "criteria": {
+    "has_sand": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:sand"
+          }
+        ]
+      }
+    },
+	"has_red_sand": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:red_sand"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:sand-red-to-yellow"
+      }
+    },
+    "has_the_red_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:sand-yellow-to-red"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_sand",
+      "has_red_sand",
+      "has_the_recipe",
+      "has_the_red_recipe"
+    ]
+  ]
+}

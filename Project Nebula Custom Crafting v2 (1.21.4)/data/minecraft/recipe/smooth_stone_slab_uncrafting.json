@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "_",
+        "_"
+    ],
+    "key": {
+        "_": "minecraft:smooth_stone_slab"
+    },
+    "result": {
+        "id": "minecraft:smooth_stone",
+        "count": 1
+    }
+}
