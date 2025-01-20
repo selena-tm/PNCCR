@@ -1,16 +1,16 @@
 {
     "type": "minecraft:crafting_shaped",
     "category": "building",
-    "group": "tuff uncrafting",
+    "group": "smooth quartz uncrafting",
     "pattern": [
         "##",
         "##"
     ],
     "key": {
-        "#": "minecraft:tuff_stairs"
+        "#": "minecraft:smooth_quartz_stairs"
     },
     "result": {
-        "id": "minecraft:tuff",
+        "id": "minecraft:smooth_quartz",
         "count": 3
     }
 }

@@ -1,5 +1,7 @@
 {
     "type": "minecraft:crafting_shaped",
+    "category": "building",
+    "group": "smooth stone uncrafting",
     "pattern": [
         "_",
         "_"
