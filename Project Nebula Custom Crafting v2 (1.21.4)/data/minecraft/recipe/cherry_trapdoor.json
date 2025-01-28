@@ -1,16 +1,16 @@
 {
   "type": "minecraft:crafting_shaped",
-  "category": "building",
+  "category": "redstone",
   "group": "wooden trapdoors",
   "pattern": [
     "###",
     "###"
   ],
   "key": {
-    "#": "minecraft:oak_planks"
+    "#": "minecraft:cherry_planks"
   },
   "result": {
-    "id": "minecraft:oak_trapdoor",
+    "id": "minecraft:cherry_trapdoor",
     "count": 12
   }
 }
