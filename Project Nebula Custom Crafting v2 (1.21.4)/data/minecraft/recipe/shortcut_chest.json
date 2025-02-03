@@ -9,6 +9,7 @@
     "key": {
       "#":
         [
+          "minecraft:pale_oak_log",
           "minecraft:oak_log",
           "minecraft:spruce_log",
           "minecraft:birch_log",
@@ -19,6 +20,7 @@
           "minecraft:crimson_stem",
           "minecraft:warped_stem",
           "minecraft:cherry_log",
+          "minecraft:stripped_pale_oak_log",
           "minecraft:stripped_oak_log",
           "minecraft:stripped_spruce_log",
           "minecraft:stripped_birch_log",
@@ -29,6 +31,7 @@
           "minecraft:stripped_crimson_stem",
           "minecraft:stripped_warped_stem",
           "minecraft:stripped_cherry_log",
+          "minecraft:pale_oak_wood",
           "minecraft:oak_wood",
           "minecraft:spruce_wood",
           "minecraft:birch_wood",
@@ -39,6 +42,7 @@
           "minecraft:crimson_hyphae",
           "minecraft:warped_hyphae",
           "minecraft:cherry_wood",
+          "minecraft:stripped_pale_oak_wood",
           "minecraft:stripped_oak_wood",
           "minecraft:stripped_spruce_wood",
           "minecraft:stripped_birch_wood",
