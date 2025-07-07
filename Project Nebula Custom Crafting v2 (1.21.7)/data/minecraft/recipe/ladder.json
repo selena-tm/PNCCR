@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "/ /",
+    "///",
+    "/ /"
+  ],
+  "key": {
+    "/": "minecraft:stick"
+  },
+  "result": {
+    "id": "minecraft:ladder",
+    "count": 4
+  }
+}

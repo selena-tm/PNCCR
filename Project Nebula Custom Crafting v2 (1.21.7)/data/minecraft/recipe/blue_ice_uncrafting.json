@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "ingredients": [
+    "minecraft:blue_ice"
+  ],
+  "result": {
+    "id": "minecraft:packed_ice",
+    "count": 9
+  },
+  "pattern": [],
+  "key": {}
+}

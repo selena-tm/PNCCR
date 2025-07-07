@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:glowstone"
+  ],
+  "result": {
+    "id": "minecraft:glowstone_dust",
+    "count": 3
+  },
+  "pattern": [],
+  "key": {}
+}

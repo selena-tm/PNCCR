@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "ingredients": [
+    "minecraft:black_dye",
+    "minecraft:prismarine",
+    "minecraft:prismarine"
+  ],
+  "result": {
+    "id": "minecraft:dark_prismarine",
+    "count": 1
+  },
+  "pattern": [],
+  "key": {}
+}

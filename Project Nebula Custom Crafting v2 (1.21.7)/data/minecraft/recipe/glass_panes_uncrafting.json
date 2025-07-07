@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "glass uncrafting",
+  "pattern": [
+    "###",
+    "# #",
+    "###"
+  ],
+  "key": {
+    "#": "minecraft:glass_pane"
+  },
+  "result": {
+    "id": "minecraft:glass",
+    "count": 3
+  }
+}

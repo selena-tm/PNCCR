@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "diorite uncrafting",
+  "pattern": [
+    "_",
+    "_"
+  ],
+  "key": {
+    "_": "minecraft:diorite_slab"
+  },
+  "result": {
+    "id": "minecraft:diorite",
+    "count": 1
+  }
+}

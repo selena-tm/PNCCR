@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:shulker_shell",
+    "minecraft:chest",
+    "minecraft:shulker_shell"
+  ],
+  "result": {
+    "id": "minecraft:shulker_box",
+    "count": 1
+  },
+  "pattern": [],
+  "key": {}
+}

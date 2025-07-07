@@ -1,0 +1,317 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "minecraft:black_stained_clay_improved",
+      "minecraft:blue_stained_clay_improved",
+      "minecraft:brown_stained_clay_improved",
+      "minecraft:cyan_stained_clay_improved",
+      "minecraft:gray_stained_clay_improved",
+      "minecraft:green_stained_clay_improved",
+      "minecraft:light_blue_stained_clay_improved",
+      "minecraft:light_gray_stained_clay_improved",
+      "minecraft:lime_stained_clay_improved",
+      "minecraft:magenta_stained_clay_improved",
+      "minecraft:orange_stained_clay_improved",
+      "minecraft:pink_stained_clay_improved",
+      "minecraft:purple_stained_clay_improved",
+      "minecraft:red_stained_clay_improved",
+      "minecraft:white_stained_clay_improved",
+      "minecraft:yellow_stained_clay_improved"
+    ]
+  },
+  "criteria": {
+    "has_black_terracotta": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:black_terracotta"
+          }
+        ]
+      }
+    },
+    "has_black_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:black_stained_clay_improved"
+      }
+    },
+    "has_blue_terracotta": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:blue_terracotta"
+          }
+        ]
+      }
+    },
+    "has_blue_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:blue_stained_clay_improved"
+      }
+    },
+    "has_brown_terracotta": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:brown_terracotta"
+          }
+        ]
+      }
+    },
+    "has_brown_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:brown_stained_clay_improved"
+      }
+    },
+    "has_cyan_terracotta": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:cyan_terracotta"
+          }
+        ]
+      }
+    },
+    "has_cyan_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:cyan_stained_clay_improved"
+      }
+    },
+    "has_gray_terracotta": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:gray_terracotta"
+          }
+        ]
+      }
+    },
+    "has_gray_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:gray_stained_clay_improved"
+      }
+    },
+    "has_green_terracotta": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:green_terracotta"
+          }
+        ]
+      }
+    },
+    "has_green_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:green_stained_clay_improved"
+      }
+    },
+    "has_light_blue_terracotta": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:light_blue_terracotta"
+          }
+        ]
+      }
+    },
+    "has_light_blue_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:light_blue_stained_clay_improved"
+      }
+    },
+    "has_light_gray_terracotta": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:light_gray_terracotta"
+          }
+        ]
+      }
+    },
+    "has_light_gray_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:light_gray_stained_clay_improved"
+      }
+    },
+    "has_lime_terracotta": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:lime_terracotta"
+          }
+        ]
+      }
+    },
+    "has_lime_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:lime_stained_clay_improved"
+      }
+    },
+    "has_magenta_terracotta": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:magenta_terracotta"
+          }
+        ]
+      }
+    },
+    "has_magenta_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:magenta_stained_clay_improved"
+      }
+    },
+    "has_orange_terracotta": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:orange_terracotta"
+          }
+        ]
+      }
+    },
+    "has_orange_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:orange_stained_clay_improved"
+      }
+    },
+    "has_pink_terracotta": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:pink_terracotta"
+          }
+        ]
+      }
+    },
+    "has_pink_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:pink_stained_clay_improved"
+      }
+    },
+    "has_purple_terracotta": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:purple_terracotta"
+          }
+        ]
+      }
+    },
+    "has_purple_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:purple_stained_clay_improved"
+      }
+    },
+    "has_red_terracotta": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:red_terracotta"
+          }
+        ]
+      }
+    },
+    "has_red_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:red_stained_clay_improved"
+      }
+    },
+    "has_white_terracotta": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:white_terracotta"
+          }
+        ]
+      }
+    },
+    "has_white_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:white_stained_clay_improved"
+      }
+    },
+    "has_yellow_terracotta": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:yellow_terracotta"
+          }
+        ]
+      }
+    },
+    "has_yellow_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:yellow_stained_clay_improved"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_black_terracotta",
+      "has_black_recipe",
+      "has_blue_terracotta",
+      "has_blue_recipe",
+      "has_brown_terracotta",
+      "has_brown_recipe",
+      "has_cyan_terracotta",
+      "has_cyan_recipe",
+      "has_gray_terracotta",
+      "has_gray_recipe",
+      "has_green_terracotta",
+      "has_green_recipe",
+      "has_light_blue_terracotta",
+      "has_light_blue_recipe",
+      "has_light_gray_terracotta",
+      "has_light_gray_recipe",
+      "has_lime_terracotta",
+      "has_lime_recipe",
+      "has_magenta_terracotta",
+      "has_magenta_recipe",
+      "has_orange_terracotta",
+      "has_orange_recipe",
+      "has_pink_terracotta",
+      "has_pink_recipe",
+      "has_purple_terracotta",
+      "has_purple_recipe",
+      "has_red_terracotta",
+      "has_red_recipe",
+      "has_white_terracotta",
+      "has_white_recipe",
+      "has_yellow_terracotta",
+      "has_yellow_recipe"
+    ]
+  ]
+}

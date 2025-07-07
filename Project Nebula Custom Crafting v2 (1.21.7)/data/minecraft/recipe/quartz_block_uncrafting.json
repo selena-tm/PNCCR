@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "ingredients": [
+    "minecraft:quartz_block"
+  ],
+  "result": {
+    "id": "minecraft:quartz",
+    "count": 4
+  },
+  "pattern": [],
+  "key": {}
+}

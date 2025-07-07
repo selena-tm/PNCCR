@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "andesite uncrafting",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": "minecraft:andesite_stairs"
+  },
+  "result": {
+    "id": "minecraft:andesite",
+    "count": 3
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "minecraft:gravel-to-flint"
+    ]
+  },
+  "criteria": {
+    "has_10_gravel": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:gravel",
+            "count": {
+              "min": 10
+            }
+          }
+        ]
+      }
+    },
+	"has_the_result": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:flint"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:gravel-to-flint"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_10_gravel",
+      "has_the_result",
+      "has_the_recipe"
+    ]
+  ]
+}

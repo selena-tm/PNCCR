@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "wooden stairs",
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "key": {
+    "#": "minecraft:jungle_planks"
+  },
+  "result": {
+    "id": "minecraft:jungle_stairs",
+    "count": 8
+  }
+}

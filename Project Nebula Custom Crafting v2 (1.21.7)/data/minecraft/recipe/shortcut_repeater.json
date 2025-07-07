@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "# #",
+    "/#/",
+    "SSS"
+  ],
+  "key": {
+    "#": "minecraft:redstone",
+    "/": "minecraft:stick",
+    "S": "minecraft:stone"
+  },
+  "result": {
+    "id": "minecraft:repeater",
+    "count": 1
+  }
+}

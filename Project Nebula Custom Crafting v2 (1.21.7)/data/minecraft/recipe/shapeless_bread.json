@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:wheat",
+    "minecraft:wheat",
+    "minecraft:wheat"
+  ],
+  "result": {
+    "id": "minecraft:bread",
+    "count": 1
+  },
+  "group": "Fast_bread",
+  "pattern": [],
+  "key": {}
+}

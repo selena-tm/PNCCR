@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "ingredients": [
+    "minecraft:honeycomb_block"
+  ],
+  "result": {
+    "id": "minecraft:honeycomb",
+    "count": 4
+  },
+  "pattern": [],
+  "key": {}
+}
