@@ -1,5 +1,5 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "minecraft:crafting_shapeless",
   "category": "building",
   "ingredients": [
     "minecraft:black_dye",
@@ -9,7 +9,5 @@
   "result": {
     "id": "minecraft:dark_prismarine",
     "count": 1
-  },
-  "pattern": [],
-  "key": {}
+  }
 }

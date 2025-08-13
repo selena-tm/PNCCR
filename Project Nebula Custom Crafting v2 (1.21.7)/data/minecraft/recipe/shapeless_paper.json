@@ -1,5 +1,5 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "minecraft:crafting_shapeless",
   "category": "misc",
   "ingredients": [
     "minecraft:sugar_cane",
@@ -9,7 +9,5 @@
   "result": {
     "id": "minecraft:paper",
     "count": 3
-  },
-  "pattern": [],
-  "key": {}
+  }
 }

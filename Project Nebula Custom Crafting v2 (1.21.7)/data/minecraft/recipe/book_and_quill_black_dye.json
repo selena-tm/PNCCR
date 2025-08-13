@@ -1,5 +1,5 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "minecraft:crafting_shapeless",
   "ingredients": [
     "minecraft:book",
     "minecraft:feather",
@@ -8,7 +8,5 @@
   "result": {
     "id": "minecraft:writable_book",
     "count": 1
-  },
-  "pattern": [],
-  "key": {}
+  }
 }

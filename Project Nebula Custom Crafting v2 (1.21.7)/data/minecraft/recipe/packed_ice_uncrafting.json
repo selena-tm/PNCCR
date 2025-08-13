@@ -1,5 +1,5 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "minecraft:crafting_shapeless",
   "category": "building",
   "ingredients": [
     "minecraft:packed_ice"
@@ -7,7 +7,5 @@
   "result": {
     "id": "minecraft:ice",
     "count": 9
-  },
-  "pattern": [],
-  "key": {}
+  }
 }

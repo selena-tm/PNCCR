@@ -1,12 +1,10 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "minecraft:crafting_shapeless",
   "ingredients": [
     "minecraft:bookshelf"
   ],
   "result": {
     "id": "minecraft:book",
     "count": 3
-  },
-  "pattern": [],
-  "key": {}
+  }
 }
