@@ -1,0 +1,14 @@
+{
+    "type": "crafting_shaped",
+    "category": "building",
+    "pattern": [
+        "#"
+    ],
+    "key": {
+        "#": "minecraft:iron_bars"
+    },
+    "result": {
+        "id": "minecraft:iron_nugget",
+        "count": 3
+    }
+}

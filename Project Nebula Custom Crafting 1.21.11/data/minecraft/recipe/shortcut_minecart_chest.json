@@ -1,0 +1,15 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "iCi",
+        "iii"
+    ],
+    "key": {
+        "i": "minecraft:iron_ingot",
+        "C": "minecraft:chest"
+    },
+    "result": {
+        "id": "minecraft:chest_minecart",
+        "count": 1
+    }
+}

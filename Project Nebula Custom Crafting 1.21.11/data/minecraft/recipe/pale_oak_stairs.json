@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "wooden stairs",
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "key": {
+    "#": "minecraft:pale_oak_planks"
+  },
+  "result": {
+    "id": "minecraft:pale_oak_stairs",
+    "count": 8
+  }
+}

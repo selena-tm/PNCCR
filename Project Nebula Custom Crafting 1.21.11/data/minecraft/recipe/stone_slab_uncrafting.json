@@ -1,0 +1,16 @@
+{
+    "type": "crafting_shaped",
+    "category": "building",
+    "group": "stone uncrafting",
+    "pattern": [
+        "_",
+        "_"
+    ],
+    "key": {
+        "_": "minecraft:stone_slab"
+    },
+    "result": {
+        "id": "minecraft:stone",
+        "count": 1
+    }
+}

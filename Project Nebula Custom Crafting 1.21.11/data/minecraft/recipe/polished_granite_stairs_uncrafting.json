@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "polished granite uncrafting",
+    "pattern": [
+        "##",
+        "##"
+    ],
+    "key": {
+        "#": "minecraft:polished_granite_stairs"
+    },
+    "result": {
+        "id": "minecraft:polished_granite",
+        "count": 3
+    }
+}

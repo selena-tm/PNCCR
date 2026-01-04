@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "chest crafting",
+    "pattern": [
+        "###",
+        "# #",
+        "###"
+    ],
+    "key": {
+        "#": "minecraft:bamboo_block"
+    },
+    "result": {
+        "id": "minecraft:chest",
+        "count": 2
+    }
+}
